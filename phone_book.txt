@@ -1,0 +1,10 @@
+1. Ivanov Ivan Ivanovich +79009009009
+2. Petrov Petr Petrovich +79008008008
+3. Vasiliev Vasily Vasilevich +79007007007
+4. Denisov Denis Denisovich +79006006006
+5. Alexandrov Alexander Alexandrovich +79005005005
+6. Sergeev Sergey Sergeevich +79004004004
+7. Andreev Andrey Andreevich +79003003003
+8. Timofeev Timofey Timofeevich +79002002002
+9. Dmitriev Dmitry Dmitrievich +79001001001
+10. Konstantinov Konstantin Konstantinovich +79000000000
